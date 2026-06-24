@@ -8,11 +8,21 @@ I build robust, scalable backend systems with a focus on clean architecture and 
 
 ## 🛠️ Tech Stack
 
-**Core:** Java 17/21 · Spring Boot · Spring Cloud · Hibernate / JPA · Maven · Gradle  
-**Architecture:** Microservices · Event-driven · REST · gRPC · Domain-Driven Design  
-**Data:** PostgreSQL · MySQL · Redis · Elasticsearch · Apache Kafka  
-**Infrastructure:** Docker · Kubernetes · AWS (EC2, RDS, SQS, Lambda) · CI/CD (GitHub Actions, Jenkins)  
-**Testing:** JUnit 5 · Mockito · Testcontainers · WireMock
+**Core:** 
+Java 17/21 · Spring Boot · Spring Cloud · Hibernate / JPA · Maven · Gradle  
+
+**Architecture:** 
+Microservices · Event-driven · REST · gRPC · Domain-Driven Design  
+
+**Data:** 
+PostgreSQL · MySQL · Redis · Elasticsearch · Apache Kafka 
+
+**Infrastructure:** 
+Docker · Kubernetes · AWS (EC2, RDS, SQS, Lambda) · CI/CD (GitHub Actions, Jenkins)  
+
+**Testing:** 
+JUnit 5 · Mockito · Testcontainers · WireMock
+
 ---
 
 ## 💼 Freelance & Consulting
